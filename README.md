@@ -3,8 +3,8 @@ Terrain Recognition and Classification using Vision Transformers A Vision Transf
 
 
 This repository contains an advanced terrain classification system utilizing Vision Transformers, designed for applications in military, navigation, and agriculture.
+Key features include:
 <br>
-Key features include:<br>
 **High Accuracy**: Achieved 97% classification accuracy on diverse terrain images.<br>
 **Model Architecture**: Integrated Vision Transformer with Squeeze and Excitation and Inception modules for superior feature extraction.<br>
 **Web Deployment**: Flask web app with an HTML/CSS front-end for user image uploads, model inference, and visual predictions.<br>
