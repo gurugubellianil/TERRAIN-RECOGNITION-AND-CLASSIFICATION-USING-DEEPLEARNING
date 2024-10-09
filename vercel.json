@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "build": {
-    "env": {
-      "PYTHON_VERSION": "3.9"
-    }
-  },
+  "builds": [
+        {"src": "app.py", "use": "@vercel/python"}
+    ],
   "routes": [
     {
       "src": "/(.*)",
